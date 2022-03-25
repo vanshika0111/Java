@@ -42,7 +42,7 @@ public class Calculator {
 
         do {
             object.Menu();
-            System.out.println("Enter your choice: ");
+            System.out.print("Enter your choice: ");
             choice = S.next().charAt(0);
 
             switch (choice) {
