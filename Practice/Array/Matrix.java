@@ -17,7 +17,8 @@ public class Matrix {
         System.out.print("Enter the number of columns: ");
         column = input.nextInt();
         mat = new float[row][column];
-        System.out.println("Enter elements in " + row + " x " + column + " matrix one by one: ");
+        // System.out.println("Enter elements in " + row + " x " + column + " matrix one
+        // by one: ");
         // for (i = 0; i < row; i++) {
         // for (j = 0; j < column; j++) {
         // mat[i][j] = input.nextFloat();
